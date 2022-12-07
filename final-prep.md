@@ -5,7 +5,7 @@
 - **Contradiction** - A compound proposition that always evaluates to false
 
 ### How to build a truth table
-1. Create columns for every variable ($2^n$ rows to allow for all combinations)
+1. Create columns for every variable ( $2^n$ rows to allow for all combinations)
 2. Create columns for every single expression
 3. Create columns for compound expressions
 4. Create column for complete expression
@@ -58,11 +58,11 @@ $(r\land\neg s)\implies\neg q$
 ## Section 3 - Propositional Equivalences
 
 ### Identity Laws
-$P\land T\equiv P$
-$P\lor F\equiv P$
+- $P\land T\equiv P$
+- $P\lor F\equiv P$
 ### Domination Laws
-$P\lor T\equiv T$
-$P\land F\equiv F$
+- $P\lor T\equiv T$
+- $P\land F\equiv F$
 ### Idempotent Laws
 $P\lor P\equiv P$
 $P\land P\equiv P$
